@@ -27,5 +27,14 @@
   },
   "scripts": {
     "Rebuild Distributable": "rimraf Distributable & tsc"
+  },
+  "homepage": "https://github.com/TokugawaTakeshi/PugCSharpStaticPreview/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TokugawaTakeshi/PugCSharpStaticPreview"
+  },
+  "bugs": {
+    "url": "https://github.com/TokugawaTakeshi/PugCSharpStaticPreview/issues",
+    "email": "tokugawa.takesi@gmail.com"
   }
 }

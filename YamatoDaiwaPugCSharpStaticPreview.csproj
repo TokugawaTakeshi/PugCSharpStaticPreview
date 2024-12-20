@@ -8,7 +8,7 @@
     <Version>0.0.0</Version>
     <RootNamespace>YamatoDaiwa.PugCSharpStaticPreview</RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <RepositoryUrl></RepositoryUrl>
+    <RepositoryUrl>https://github.com/TokugawaTakeshi/PugCSharpStaticPreview</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <TargetFramework>net9.0</TargetFramework>
