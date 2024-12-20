@@ -1,0 +1,17 @@
+﻿{
+
+  "compilerOptions": {
+
+    "target": "ESNext",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+
+    "strictNullChecks": true
+
+  },
+
+  "files": [ "Generator.ts" ]
+
+}

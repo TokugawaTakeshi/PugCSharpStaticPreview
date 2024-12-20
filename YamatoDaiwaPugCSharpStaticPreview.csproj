@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+
+    <PackageId>YamatoDaiwa.PugCSharpStaticPreview</PackageId>
+    <Title>Yamato Daiwa Pug-CSharp Static Preview</Title>
+    <Description>The class for the generating of the string resources for the Pug static preview basing on CSharp logic</Description>
+    <Version>0.0.0</Version>
+    <RootNamespace>YamatoDaiwa.PugCSharpStaticPreview</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <TargetFramework>net9.0</TargetFramework>
+    <LangVersion>13</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="YamatoDaiwaCS_Extensions" Version="0.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
+
+</Project>
